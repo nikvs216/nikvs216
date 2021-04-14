@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/JxFmWGrmynlCg/source.gif" align="right">
 <li>
 <b>Name:</b> Thom</li>
-<li><p>⚡ Education: <b>Grafisch Lyceum Rotterdam</b></p>
+<li>⚡ Education: <b>Grafisch Lyceum Rotterdam</b>
 </li>
 <li>
 <b>Hobbys:</b> Programming, listening to music, gaming and browsing the web!
