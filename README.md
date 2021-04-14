@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <li>⚡ Education: <b>Grafisch Lyceum Rotterdam</b>
 </li>
 <li>
-<b>Hobbys:</b> Programming, listening to music, gaming and browsing the web!
+  Hobbys:<b> Programming, listening to music and gaming </b>
 </li>
 </div>
 <div>
