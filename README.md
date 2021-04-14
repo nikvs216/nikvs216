@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 <hr>
 <h2 align="center"> About me:</h2>
-<img src="https://media.giphy.com/media/JxFmWGrmynlCg/source.gif" align="right">
+<img src="https://media.giphy.com/media/ElPdhPULJXOne/giphy.gif" align="right">
 <li>
-<b>Name:</b> Thom</li>
+💬 <b>Name:</b> Nikolas</li>
 <li>⚡ Education: <b>Grafisch Lyceum Rotterdam</b>
 </li>
-<li>
-  Hobbys:<b> Programming, listening to music and gaming </b>
+<li> Hobbys:<b> Programming, listening to music and gaming </b>
 </li>
 </div>
 <div>
